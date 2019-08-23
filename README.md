@@ -23,6 +23,6 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 <div align="center">
-    <img src="screenshotVueCRUD.png" width="800px"</img> 
+    <img src="https://github.com/BlockVisors/Vue-Product-MGMT-CRUD/blob/master/screenshotVueCrud.png" width="800px"</img> 
 </div>
 
