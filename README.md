@@ -22,4 +22,7 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-![Screenshot](screenshotVueCRUD.png)
+<div align="center">
+    <img src="/screenshotVueCRUD" width="400px"</img> 
+</div>
+
